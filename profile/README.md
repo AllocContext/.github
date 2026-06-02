@@ -14,7 +14,6 @@ Not financial advice.
 | Repo | Role |
 |------|------|
 | [**alloc-context**](https://github.com/AllocContext/alloc-context) | Core MCP server — ingest, rollup, hosted x402 endpoint, self-host, LangChain wrapper |
-| [**alloc-context-operator**](https://github.com/AllocContext/alloc-context-operator) | Optional operator layer — digests, alerts, email (calls core MCP over HTTP) |
 
 ## Get started
 
@@ -33,4 +32,5 @@ only — no outbound sales.
 
 ## Contributing
 
-Issues welcome for bugs and MCP API feedback. See each repo's `CONTRIBUTING.md`.
+Issues welcome for bugs and MCP API feedback. See
+[CONTRIBUTING.md](https://github.com/AllocContext/alloc-context/blob/main/CONTRIBUTING.md).
